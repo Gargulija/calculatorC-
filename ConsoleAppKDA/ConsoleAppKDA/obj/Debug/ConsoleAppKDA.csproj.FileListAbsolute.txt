@@ -1,0 +1,8 @@
+C:\Users\Студент\Desktop\ConsoleAppKDA\bin\Debug\ConsoleAppKDA.exe.config
+C:\Users\Студент\Desktop\ConsoleAppKDA\bin\Debug\ConsoleAppKDA.exe
+C:\Users\Студент\Desktop\ConsoleAppKDA\bin\Debug\ConsoleAppKDA.pdb
+C:\Users\Студент\Desktop\ConsoleAppKDA\obj\Debug\ConsoleAppKDA.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\ConsoleAppKDA\obj\Debug\ConsoleAppKDA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Desktop\ConsoleAppKDA\obj\Debug\ConsoleAppKDA.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\ConsoleAppKDA\obj\Debug\ConsoleAppKDA.exe
+C:\Users\Студент\Desktop\ConsoleAppKDA\obj\Debug\ConsoleAppKDA.pdb
